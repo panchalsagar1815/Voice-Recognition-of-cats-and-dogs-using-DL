@@ -61,4 +61,4 @@ weighted avg       0.87      0.87      0.87        67
 ```
 
 **Conclusion:**
-The successful implementation of this voice recognition model demonstrates its potential applications in pet monitoring, smart homes, and animal behavior research. Future work may include expanding the dataset to include more breeds and refining the model for real-world deployment.
+The successful implementation of this voice recognition model demonstrates its potential applications in pet monitoring, smart homes, and animal behaviour research. Future work may include expanding the dataset to include more breeds and refining the model for real-world deployment.
