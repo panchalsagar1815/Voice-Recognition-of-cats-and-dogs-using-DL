@@ -1,6 +1,6 @@
 # Voice-Recognition-of-cats-and-dogs-using-DL
 
-**Project Title: Voice Recognition of Cats and Dogs Using Deep Learning**
+#**Project Title: Voice Recognition of Cats and Dogs Using Deep Learning**
 
 **Overview:**
 The "Voice Recognition of Cats and Dogs using Deep Learning" project focuses on developing an innovative system that can classify different breeds of cats and dogs based on their unique vocalizations. By employing state-of-the-art deep learning techniques, the project not only achieves accurate voice classification but also provides valuable insights into the performance of the model.
