@@ -1,4 +1,4 @@
-# Voice-Recognition
+# Voice
 # **Project Title: Voice Recognition of Cats and Dogs Using Deep Learning**
 
 **Overview:**
